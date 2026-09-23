@@ -1,3 +1,5 @@
+// Tipos de dados Primitivos
+
 const nome = "Wendel"; // string - texto
 const idade = 30; // number - numero (inteiro)
 const altura = 1.70; // number float (numero com ponto flutuante)
